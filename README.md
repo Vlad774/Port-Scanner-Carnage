@@ -38,32 +38,32 @@ Loading bars and etc.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Scan with User Credentials: <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/Scanning%20with%20User%20credentials(Firewall%20on).jpg"/>
+Port Scanner CARNAGE: <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Carnage%20Port%20Scanner.jpg"/>
 <br />
 <br />
-Installing old Firefox(Firewall off):  <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/installing%20old%20Firefox(Firewall%20off).jpg"/>
+Menu for scanning:  <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Menu.jpg"/>
 <br />
 <br />
-Curl 7.69 (Critical) : <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/Curl%207.69%20(Critical).jpg"/>
+Loading Bar: <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Loading%20Bar.jpg"/>
 <br />
 <br />
-Internet Explorer(Critical):  <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/Internet%20Explorer(Critical).jpg"/>
+Open Ports:  <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/open%20ports.jpg"/>
 <br />
 <br />
-SMB port:  <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/SMB%20port.jpg"/>
+Python Script 1:  <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Python_script_1.jpg"/>
 <br />
 <br />
-Security Update:  <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/Security%20Update.jpg"/>
+Python Script 2:  <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Python_script_2.jpg"/>
 <br />
 <br />
-Vulnerability redemption:  <br/>
-<img src="https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab/blob/main/Vulnerability%20redemption.jpg"/>
+Python CODE:  <br/>
+<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Carnage_v2.01.py"/>
 
 </p>
 
